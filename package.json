@@ -1,0 +1,24 @@
+{
+  "name": "nodottenserver",
+  "version": "0.0.0",
+  "description": "Open Tibia Server On Nodejs language",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/Porkts/nordottenserver.git"
+  },
+  "keywords": [
+    "tibia",
+    "open",
+    "tibia",
+    "server",
+    "tibia",
+    "tibia",
+    "server"
+  ],
+  "author": "EvertonRecchi",
+  "license": "ISC"
+}
